@@ -1,0 +1,5 @@
+-cp src
+-lib heaps
+-js target/web/hello.js
+-main Main
+-debug

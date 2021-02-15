@@ -1,0 +1,8 @@
+-cp src
+-lib hide
+-lib hxnodejs
+-lib castle
+--macro hide.Plugin.init()
+-js bin/hide-plugin.js
+-debug
+HideImports
